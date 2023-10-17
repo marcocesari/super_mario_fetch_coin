@@ -62,6 +62,7 @@ function setup() {
 
 function draw() {
     background(bkg);
+
     printTitle();
 
     moveGoomba();
