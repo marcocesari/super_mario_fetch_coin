@@ -47,3 +47,17 @@ Click to play: https://editor.p5js.org/marcocesari/full/gu4g_XKCO
     - Underwater theme in level 3
     
 Click to play: https://editor.p5js.org/marcocesari/full/sPAAC5RqU
+
+## V5:
+
+    New Artificial Intelligence mode (genetic algorithm)! 
+    Mario clones learn how to get the coin!
+
+    Features:
+    - Game modes: 
+        - genetic training: 150 mario clones with different DNA compete to get the coin
+        - genetic play: let the fittest clone play
+        - normal play: you control Mario
+        - auto: basic AI (no training), same as V4
+    - Switch between game modes by pressing "G"
+    - Mario can still jump in any game mode
