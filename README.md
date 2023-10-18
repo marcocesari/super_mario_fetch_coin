@@ -62,11 +62,14 @@ Click to play: https://editor.p5js.org/marcocesari/full/sPAAC5RqU
 
 <center>
 
-| Luigi | Underwater theme | Super Speed |
-| ----- | ---------------- | ----------- |
-| <img src="v4/demo_assets/luigi.png" width="240"/> | <img src="v4/demo_assets/underwater_theme.png" width="240"/> | <video width="320" height="240" controls><source src="v4/demo_assets/super_speed.mp4" type="video/mp4"></video> |
+| Luigi | Underwater theme |
+| ----- | ---------------- |
+| <img src="v4/demo_assets/luigi.png" width="240"/> | <img src="v4/demo_assets/underwater_theme.png" width="240"/> |
 
 </center>
+
+https://github.com/marcocesari/super_mario_fetch_coin/assets/93427174/9f693724-9f5d-43de-b65d-a0cd1a0f7e2a
+
 
 ## V5:
 
@@ -82,10 +85,11 @@ Click to play: https://editor.p5js.org/marcocesari/full/sPAAC5RqU
     - Switch between game modes by pressing "G"
     - Mario can still jump in any game mode
 
-<center>
 
-| Start training.. | After training for many generations.. |
-| ---------------- | ------------------------------------- |
-| <video width="320" height="240" controls><source src="v5/demo_assets/genetic_training.mp4" type="video/mp4"></video> | <video width="320" height="240" controls><source src="v5/demo_assets/genetic_play.mp4" type="video/mp4"></video> |
 
-</center>
+https://github.com/marcocesari/super_mario_fetch_coin/assets/93427174/dd868aef-60ca-47a6-9c38-04cb6fee8801
+
+
+https://github.com/marcocesari/super_mario_fetch_coin/assets/93427174/637ad6b5-51c5-4181-9ec6-6eadfbe18dea
+
+
