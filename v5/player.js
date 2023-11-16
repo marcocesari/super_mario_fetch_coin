@@ -74,12 +74,12 @@ class Player {
                 break;
         }
         this.y += this.speed_y;
-        if (this.y < ground_y) {
+        if (this.y < this.ground_y) {
             // in the air
             this.speed_y += this.gravity;
         } else {
             this.speed_y = 0;
-            this.y = ground_y;
+            this.y = this.ground_y;
         }
     }
 

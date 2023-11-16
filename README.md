@@ -85,11 +85,9 @@ https://github.com/marcocesari/super_mario_fetch_coin/assets/93427174/9f693724-9
     - Switch between game modes by pressing "G"
     - Mario can still jump in any game mode
 
-
+Click to play: https://editor.p5js.org/marcocesari/full/5WFLZzg1h
 
 https://github.com/marcocesari/super_mario_fetch_coin/assets/93427174/dd868aef-60ca-47a6-9c38-04cb6fee8801
 
 
 https://github.com/marcocesari/super_mario_fetch_coin/assets/93427174/637ad6b5-51c5-4181-9ec6-6eadfbe18dea
-
-
