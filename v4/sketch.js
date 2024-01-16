@@ -10,6 +10,7 @@ let game_over_sound;
 let game_status;
 let level;
 let title, title_start_time;
+let jump_sound;
 
 function preload() {
     bkg_landscape = loadImage('assets/background1.png');
@@ -23,6 +24,7 @@ function preload() {
     game_over_sound = loadSound('assets/smb_gameover.wav');
     goomba_right = loadImage('assets/goomba_right.png');
     goomba_left = loadImage('assets/goomba_left.png');
+    jump_sound = loadSound('assets/jump_sound.mp3');
 }
 
 function setup() {
@@ -191,6 +193,7 @@ function keyPressed() {
         if (player_y >= ground_y) {
             // on the ground
             player_speed_y = -jump_power;
+            jump_sound.play();
         }
     }
 }
